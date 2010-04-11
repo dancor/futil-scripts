@@ -1,0 +1,15 @@
+name:            futil-scripts
+version:         0.1
+license:         BSD3
+license-file:    LICENSE
+author:          dan corson <danl@alum.mit.edu>
+synopsis:        <syn>
+build-type:      Simple
+build-depends:   base
+
+executable:      futil-scripts
+main-is:         Main.hs
+hs-source-dirs:  src
+
+exposed-modules: futil-scripts
+hs-source-dirs:  src
